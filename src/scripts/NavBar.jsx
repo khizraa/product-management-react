@@ -5,7 +5,7 @@ function NavBar(params) {
    <nav className="navbar">
       <div className="navbar-logo">💄 Khizzra's Store</div>
       <ul className="navbar-links">
-    <li><Link to="/">Home</Link></li>
+    <li><Link to="/product-management-react">Home</Link></li>
     <li><Link to="/products">Products</Link></li> 
     <li><Link to="/dashboard">Dashboard</Link></li>
     {/* <li><Link to="/about">About</Link></li> */}
